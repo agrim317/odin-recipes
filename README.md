@@ -1,4 +1,3 @@
-1st project
-Basic website using HTML
-
+# 1st project
+# basic website using html
 # odin-recipes
